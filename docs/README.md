@@ -1,5 +1,7 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB 09
+![CF](http://i.imgur.com/7v5ASc8.png) LAB 09 - API
 ==============================================
+
+## Authors: Xochil Squaglia & Alistair Blake
 
 ## API Server
 [![Build Status](https://travis-ci.org/vladimirsan/cf-travis-deployment.svg?branch=master)](https://travis-ci.org/vladimirsan/cf-travis-deployment)
@@ -11,5 +13,5 @@
 
 ### Modules
 
-###UML
+### UML
 ![diagram](/docs/assets/Lab9.png)
