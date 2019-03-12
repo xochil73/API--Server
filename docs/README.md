@@ -12,4 +12,4 @@
 ### Modules
 
 ###UML
-![diagram](./docs/assets/Lab9.png)
+![diagram](/docs/assets/Lab9.png)
