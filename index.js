@@ -1,5 +1,11 @@
 'use strict';
 
+/**
+ * API Server Starter
+ * instantiates mongoose and start the server
+ * @module index.js
+ */
+
 require('dotenv').config();
 const mongoose = require('mongoose');
 
